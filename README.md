@@ -238,18 +238,4 @@ JSONB used for efficient result storage
 
 Prompt and sanitization layered for safety
 
-🔮 Future Enhancements
 
-Intent-based query routing
-
-Query accuracy scoring
-
-Role-based access control
-
-Streamlit / Next.js UI
-
-Dashboard over query_insights
-
-👤 Author
-
-Built as a real-world analytics and recovery intelligence system using modern GenAI and database best practices.
