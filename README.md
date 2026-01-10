@@ -228,6 +228,10 @@ http://127.0.0.1:8001/docs
   "answer": "There is 1 high-risk unpaid customer in Mumbai."
 }
 
+Deployed Endpoint:
+frontend: https://nlp-sql-supabase.streamlit.app/
+backend: https://nlp-sql-supabase.onrender.com/docs
+
 📌 Key Design Decisions
 
 Supabase RPC used instead of direct DB connections
