@@ -37,7 +37,7 @@ Give a clear business-friendly answer.
 """
 
     response = client.chat.completions.create(
-        model=os.getenv("AZURE_DEPLOYMENT_NAME"),
+        model=os.getenv("AZURE_OPENAI_DEPLOYMENT"),
         messages=[{"role": "user", "content": summary_prompt}],
         temperature=0.3
     )
