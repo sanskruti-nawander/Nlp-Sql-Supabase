@@ -4,7 +4,7 @@ import requests
 # =========================
 # CONFIG
 # =========================
-BACKEND_API_URL = "http://127.0.0.1:8000/query"
+BACKEND_API_URL = "https://nlp-sql-supabase.onrender.com/query"
 
 st.set_page_config(
     page_title="NLP → SQL Chatbot",
