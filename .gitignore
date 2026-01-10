@@ -1,3 +1,23 @@
-.env
-__pycache__/
+# Virtual environments
 venv/
+backend/venv/
+frontend/venv/
+
+# Environment variables
+.env
+backend/.env
+frontend/.env
+
+# Python cache
+__pycache__/
+*.pyc
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Streamlit
+.streamlit/
+
+# Logs
+*.log
